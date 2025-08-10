@@ -1,11 +1,11 @@
 {
-    "name": "cod_zombies",
-    "short_name": "cod_zombies",
+    "name": "codz_companion",
+    "short_name": "codz_companion",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Unofficial Companion App for COD Zombies",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
