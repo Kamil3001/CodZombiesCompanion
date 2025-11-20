@@ -1,11 +1,11 @@
 {
-    "name": "codz_companion",
-    "short_name": "codz_companion",
+    "name": "z_guides",
+    "short_name": "z_guides",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A Call of Duty Zombies companion app",
+    "description": "Call of Duty Zombies Tools for Easter Eggs!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
